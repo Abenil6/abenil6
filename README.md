@@ -17,7 +17,7 @@ Full-Stack Developer | Information Science Graduating Student from Ethiopia  �
 - 💻 Passionate about **Web Development, Software Engineering, and UI/UX Design**
 - 🎯 Focused on building scalable and user-friendly applications
 - 👨‍💻 Portfolio:  
-  <a href="https://abenezersportfolio.netlify.app/" target="_blank">abenezersportfolio.netlify.app</a>
+  <a href="https://abenezersportfolio.netlify.app/" target="_blank">(https://portfolio-rxb9.onrender.com/)</a>
 
 - 📫 Email: **abenilee740@gmail.com**
 
