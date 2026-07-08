@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abenezer Aschalew</h1>
 
 <h3 align="center">
-Full-Stack Developer | Information Science Graduating Student from Ethiopia  🇪🇹 Haramaya University
+Full-Stack Developer | Information Science Graduate Student from Ethiopia  🇪🇹 Haramaya University
 </h3>
 
 <p align="center">
@@ -11,13 +11,13 @@ Full-Stack Developer | Information Science Graduating Student from Ethiopia  �
 ---
 
 ## 🚀 About Me
-
-- 🔭 Currently working on **Haramaya University Special Non-Boarding Secondary School SIMS**
+- 🔭 Currently working on **Haramaya University Graduating class digital year book**
+- 🔭 Finished working on **Haramaya University Special Non-Boarding Secondary School SIMS** 
 - 🌱 Currently learning **modern Full-Stack tools, frameworks, and cloud technologies**
 - 💻 Passionate about **Web Development, Software Engineering, and UI/UX Design**
 - 🎯 Focused on building scalable and user-friendly applications
 - 👨‍💻 Portfolio:  
-  <a href="https://abenezersportfolio.netlify.app/" target="_blank">(https://portfolio-rxb9.onrender.com/)</a>
+  <a href="https://portfolio-rxb9.onrender.com/" target="_blank">(https://portfolio-rxb9.onrender.com/)</a>
 
 - 📫 Email: **abenilee740@gmail.com**
 
