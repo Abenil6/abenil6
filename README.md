@@ -17,7 +17,7 @@ Full-Stack Developer | Information Science Graduate Student from Ethiopia  🇪�
 - 💻 Passionate about **Web Development, Software Engineering, and UI/UX Design**
 - 🎯 Focused on building scalable and user-friendly applications
 - 👨‍💻 Portfolio:  
-  <a href="https://portfolio-rxb9.onrender.com/" target="_blank">(https://portfolio-rxb9.onrender.com/)</a>
+  <a href="https://abenezeraschalew.me/" target="_blank">((https://abenezeraschalew.me/)</a>
 
 - 📫 Email: **abenilee740@gmail.com**
 
