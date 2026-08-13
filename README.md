@@ -11,7 +11,6 @@ Full-Stack Developer | Information Science Graduate Student from Ethiopia  🇪�
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on **Haramaya University Graduating class digital year book**
 - 🔭 Finished working on **Haramaya University Special Non-Boarding Secondary School SIMS** 
 - 🌱 Currently learning **modern Full-Stack tools, frameworks, and cloud technologies**
 - 💻 Passionate about **Web Development, Software Engineering, and UI/UX Design**
